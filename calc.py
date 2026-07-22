@@ -6,7 +6,7 @@ def addition(a,b):
 	print("Addition: " + (result))
 
 def subtraction(a,b):
-    result = a - b
+    result = a + b
     print("Subtraction: " + (result))
     
 def multiplication(a,b):
