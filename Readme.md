@@ -81,5 +81,35 @@ The program prevents common errors such as:
 
 ---
 
-# 📂 Project Structure
+# 📂 Project Output
 
+╔════════════════════════════════════════════╗
+║                                            ║
+║        🧮  P Y T H O N  C A L C U L A T O R ║
+║                                            ║
+╚════════════════════════════════════════════╝
+
+
+╔══════════════════════╗
+║   CHOOSE OPERATION   ║
+╠══════════════════════╣
+║ 1 ➕ Addition         ║
+║ 2 ➖ Subtraction      ║
+║ 3 ✖ Multiplication   ║
+║ 4 ➗ Division         ║
+║ 5 🚪 Exit             ║
+╚══════════════════════╝
+
+
+Calculating.....
+
+██████████████████████████████
+        RESULT GENERATED
+██████████████████████████████
+
+
+╔══════════════════════════╗
+║                          ║
+║        25 + 5 = 30       ║
+║                          ║
+╚══════════════════════════╝
